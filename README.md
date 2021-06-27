@@ -2,6 +2,9 @@
 
 * Bu Repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.  
 
+- <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png"></include-fragment>
+
+
 ## Installation
 
 * Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
