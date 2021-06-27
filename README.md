@@ -1,6 +1,11 @@
 # Kodluyoruz Ilk Repo
 
-* {Bu Repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.  }
+* 
+```
+{ 
+Bu Repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.  
+```
+{ 
 
 
 
@@ -8,20 +13,40 @@
 
 ## Installation
 
-* {Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)}
+* 
+```
+{ 
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+}
+```
 
 ## Usage
 
-* {Projeyi cloneladıktan sonra Visual Studio Code programında açınız.}
+* 
+```
+{ 
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+}
+```
 
-* {Linux için:
+* 
+```
+{
+Linux için:
 
  cd kodluyoruzilkrepo
- code .}
+ code .
+ }
+```
 
 ## Contributing
 
-* {Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.}
+* 
+```
+{
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+}
+```
 
 ## License
 
